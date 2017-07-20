@@ -26,7 +26,7 @@ SECRET_KEY = '8@p4a4ed3j8$j0i!a1ytx(i-fq94!+cvj))wwq)$2_(yokt9og'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-'pzheng.pythonanywhere.com']
+'ppzheng.pythonanywhere.com']
 
 
 # Application definition
